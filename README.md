@@ -1,5 +1,5 @@
 # Sentiment-Analysis-in-Natural-Language-Processing
-## This was my summer project under Dr. Prosenjit Gupta in Elahe Technologies. (May'20 - Jul'20)
+## This was my summer project under Dr. Prosenjit Gupta under Elahe Technologies. (May'20 - Jul'20)
 
 In the learning phase, we have learnt about Python programming language along with various
 libraries of python programming language. After that, we moved towards Natural Language
